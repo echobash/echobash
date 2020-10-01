@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=echobash)
 
 Hi  there 👋
-🌱 I’m currently learning Python and reading others code.<br>
+🌱 I’m currently learning Python reading others code and playing [ctfs](https://github.com/echobash/darkCTFWriteups).<br>
 
 I've been working on these now a days:-
 
