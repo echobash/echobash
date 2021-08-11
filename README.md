@@ -12,8 +12,8 @@ I've been working on these now a days:-
 
 **Frameworks**
 
-<img title="CodeIgniter" alt="CodeIgniter" width="40px" src="https://avatars0.githubusercontent.com/u/44521256">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
-|--|--|--|
+<img title="CodeIgniter" alt="CodeIgniter" width="40px" src="https://avatars0.githubusercontent.com/u/44521256">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
+|--|--|--|--|
 
 **Cloud**
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
