@@ -7,8 +7,8 @@ I've been working on these now a days:-
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="php" title="php" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
-|---|---|---|---|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="php" title="php" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">|<img alt="js" title="js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Cpp" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+|---|---|---|---|--|
 
 **Frameworks**
 
