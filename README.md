@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=echobash)
 
 Hi  there 👋
-🌱 I’m currently learning Python and reading others code and playing [CTFs](https://github.com/echobash/darkCTFWriteups).<br>
-   Also visiting the DS concepts.
+🌱 I’m currently learning Python,JS and php and reading others code.<br>
+ The livewire framework is too fascinating for me.
 I've been working on these now a days:-
 
 **Programming Languages**
