@@ -1,12 +1,10 @@
-#### Hi Working as Senior Platform Engineer at DTDC
+![](https://komarev.com/ghpvc/?username=echobash)
+#### Hi  there 👋 I'm currently working as Senior Platform Engineer at DTDC
 
-#### I am also Creating an Opensource Tool for developers and Penstesters around the globe [Dev Dunia ](https://devdunia.com)
+#### I am also Creating an Opensource Tool for developers and Penstesters around the globe named ["Dev Dunia" ](https://devdunia.com)
 <kbd><img width="960" height="482" alt="Screenshot 2025-10-23 at 4 52 19 PM" src="https://github.com/user-attachments/assets/730c707e-911a-40bb-9b82-db5b06375aad" /></kbd>
 
 
-![](https://komarev.com/ghpvc/?username=echobash)
-
-Hi  there 👋
 🌱 I’m currently learning Python,JS and php and reading others code.<br>
  The livewire framework is too fascinating for me.
 I've been working on these now a days:-
