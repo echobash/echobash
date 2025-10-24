@@ -4,6 +4,39 @@
 #### I am also Creating an Opensource Tool for developers and Penstesters around the globe named ["Dev Dunia" ](https://devdunia.com)
 <kbd><img width="960" height="482" alt="Screenshot 2025-10-23 at 4 52 19 PM" src="https://github.com/user-attachments/assets/730c707e-911a-40bb-9b82-db5b06375aad" /></kbd>
 
+<h2 align="center">🤝 Collab with Me</h2>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/ali-anwar-262516141/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://twitter.com/alianwar_rocker" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCuGqtawGXgk5h4rcPAHroCg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <a href="https://ctftime.org/user/62962" target="_blank">
+    <img src="https://img.shields.io/badge/CTFTime%20%2F%20OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="CTFTime / OWASP" />
+  </a>
+
+  <a href="https://echobash.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://devdunia.com" target="_blank">
+    <img src="https://img.shields.io/badge/Dev%20Dunia-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Dev Dunia" />
+  </a>
+
+</div>
+
+<p align="center">
+  <b>Let's connect, collaborate, and build something amazing together! 🚀</b>
+</p>
 
 🌱 I’m currently learning Python,JS and php and reading others code.<br>
  The livewire framework is too fascinating for me.
@@ -28,8 +61,3 @@ I've been working on these now a days:-
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png"> <br>
 |--|--|--|
-
-**Collab with me**
-
-<a href="https://www.linkedin.com/in/ali-anwar-262516141/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/alianwar_rocker"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/channel/UCuGqtawGXgk5h4rcPAHroCg"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://ctftime.org/user/62962"><img src="https://owasp.org/assets/images/logo.png" width="40"></a>
-|--|--|--|--|
