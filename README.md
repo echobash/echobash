@@ -12,7 +12,7 @@
 [![An image of @echobash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/echobash)](https://holopin.io/@echobash)
 
 ![Echobash's GitHub stats](https://github-readme-stats.vercel.app/api?username=echobash&show_icons=true&theme=radical)
-<h2 align="center">🤝 Collab with Me</h2>
+<h2 align="center">🤝 Feel free to give a Hi if wanna work and collaborate together</h2>
 
 <div align="center">
 
