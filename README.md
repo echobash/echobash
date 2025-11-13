@@ -1,12 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=echobash)
 
-#### Find @echobash on Leetcode -  <a href="https://leetcode.com/u/echobash/">Click here</a>
-<kbd><img width="1151" height="601" alt="Screenshot 2025-11-01 at 12 48 43 AM" src="https://github.com/user-attachments/assets/d5256d94-d174-45a1-a7d3-1b1969c16ee2" /></a></kbd>
 
-#### Find @echobash professional Journey and work history - <a href="https://echobash.com/">echobash.com</a>
-<img width="1377" height="772" alt="Screenshot 2025-11-01 at 12 56 37 AM" src="https://github.com/user-attachments/assets/45fe11ce-8566-471d-bccb-a7a9c0cd2185" />
-
-#### I am also Creating an Opensource Tool for developers and Penstesters around the globe named ["Dev Dunia" ](https://devdunia.com)
+#### I am creating an Opensource Tool for developers and Penstesters around the globe named ["Dev Dunia" ](https://devdunia.com)
 <kbd><img width="960" height="482" alt="Screenshot 2025-10-23 at 4 52 19 PM" src="https://github.com/user-attachments/assets/730c707e-911a-40bb-9b82-db5b06375aad" /></kbd>
 
 #### Some of my holopin badges
