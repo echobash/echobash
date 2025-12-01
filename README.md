@@ -9,7 +9,6 @@
 
 
 
-![Echobash's GitHub stats](https://github-readme-stats.vercel.app/api?username=echobash&show_icons=true&theme=radical)
 <h2 align="center">🤝 Feel free to give a Hi if wanna work and collaborate together</h2>
 
 <div align="center">
