@@ -9,7 +9,7 @@
 
 
 
-<h2 align="center">🤝 Feel free to give a Hi if wanna work and collaborate together</h2>
+<h1 align="center">If you are interested to start your journey on opensource, Hit me on Linkedin</h1>
 
 <div align="center">
 
