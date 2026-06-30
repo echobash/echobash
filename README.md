@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=echobash)
-<a href="https://www.echobash.com" target="_blank">
-    My Dev portolio (Echobash.com)
-</a>
+
 
 #### I am creating an Opensource Tool for developers and Penstesters around the globe named ["Dev Dunia" ](https://devdunia.com)
 <kbd><img width="960" height="482" alt="Screenshot 2025-10-23 at 4 52 19 PM" src="https://github.com/user-attachments/assets/730c707e-911a-40bb-9b82-db5b06375aad" /></kbd>
