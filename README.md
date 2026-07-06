@@ -43,7 +43,7 @@
   <b>Let's connect, collaborate, and build something amazing together! 🚀</b>
 </p>
 
-🌱 I’m currently learning Python,JS and php and reading others code.<br>
+🌱 I’m currently learning Python,JS and php and reading others code. and tapping the AI and Nueral network training<br>
  The livewire framework is too fascinating for me.
 I've been working on these now a days:-
 
