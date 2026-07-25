@@ -3,6 +3,8 @@
 
 <kbd><img width="960" height="482" alt="Screenshot 2025-10-23 at 4 52 19 PM" src="https://github.com/user-attachments/assets/730c707e-911a-40bb-9b82-db5b06375aad" /></kbd>
 
+<img width="881" height="751" alt="Screenshot 2026-07-25 at 11 58 49 PM" src="https://github.com/user-attachments/assets/6c7160ed-cb88-40ba-aac5-b822de2fe2ea" />
+
 #### Some of my holopin badges
 [![An image of @echobash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/echobash)](https://holopin.io/@echobash)
 
