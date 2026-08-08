@@ -5,6 +5,8 @@
 
 <img width="881" height="751" alt="Screenshot 2026-07-25 at 11 58 49 PM" src="https://github.com/user-attachments/assets/6c7160ed-cb88-40ba-aac5-b822de2fe2ea" />
 
+<img width="1920" height="919" alt="Screenshot 2026-08-08 at 11 58 45 PM" src="https://github.com/user-attachments/assets/ac5b0912-73a6-4e52-8db8-8d656cf91975" />
+
 #### Some of my holopin badges
 [![An image of @echobash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/echobash)](https://holopin.io/@echobash)
 
