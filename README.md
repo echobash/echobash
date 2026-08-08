@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=echobash)
 
+<img width="1920" height="960" alt="Screenshot 2026-08-09 at 12 01 22 AM" src="https://github.com/user-attachments/assets/439c1eac-4dfb-46a2-96dd-4e0f6a544343" />
 
 <kbd><img width="960" height="482" alt="Screenshot 2025-10-23 at 4 52 19 PM" src="https://github.com/user-attachments/assets/730c707e-911a-40bb-9b82-db5b06375aad" /></kbd>
 
